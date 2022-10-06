@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @parikshitcarpenter
-- 👀 I’m interested in Data Science,Data analyst
-- 🌱 I’m currently learning Btech E.C.E. final sem
+- 👀 I’m interested in Data Science,Data Engineer,Developer
+- ⌨️ I've learned Python programming, R-Programming, Beginner level in C programming
+- 🌱 I am currently pursuing my final year B.Tech in Electronics and Communication Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
      Cont. no.-9584058279
