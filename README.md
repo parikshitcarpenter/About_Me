@@ -1,4 +1,4 @@
-Bio:
+SUMMARY:
 
 As a recent graduate in 2022 with a strong foundation in data analysis, I am enthusiastic about leveraging data to drive valuable insights and make informed decisions. 
 
